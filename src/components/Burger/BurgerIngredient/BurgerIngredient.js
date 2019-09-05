@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 import styles from "./BurgerIngredient.module.css";
 
-const ingredients = {
+export const ingredients = {
   BREAD: {
     TOP: "bread-top",
     BOTTOM: "bread-bottom"
